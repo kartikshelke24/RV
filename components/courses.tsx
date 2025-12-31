@@ -62,9 +62,14 @@ export function Courses() {
         {/* CTA */}
         <div className="text-center mt-12">
           <p className="text-muted-foreground mb-4">Ready to start learning?</p>
-          <button className="px-8 py-3 bg-accent text-accent-foreground font-semibold rounded-full hover:opacity-90 transition-opacity">
+          <a
+            href="https://forms.gle/pc5cjuvN3xpwBMBeA"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block px-8 py-3 bg-accent text-accent-foreground font-semibold rounded-full hover:opacity-90 transition-opacity"
+          >
             Enroll Now
-          </button>
+          </a>
         </div>
       </div>
     </section>

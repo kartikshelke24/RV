@@ -12,7 +12,7 @@ export function CTA() {
           help you succeed
         </p>
 
-        <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+        {/* <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <button className="px-8 py-3 bg-accent text-accent-foreground font-semibold rounded-full hover:opacity-90 transition-opacity flex items-center gap-2">
             Contact Us Now
             <ArrowRight size={18} />
@@ -20,7 +20,7 @@ export function CTA() {
           <button className="px-8 py-3 border border-accent text-accent font-semibold rounded-full hover:bg-accent hover:text-accent-foreground transition-colors">
             Schedule Consultation
           </button>
-        </div>
+        </div> */}
 
         {/* Contact Info */}
         <div className="mt-16 space-y-4 text-muted-foreground">

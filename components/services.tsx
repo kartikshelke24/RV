@@ -122,9 +122,9 @@ export function Services() {
                     </li>
                   ))}
                 </ul>
-                <button className="mt-8 w-full px-6 py-3 bg-accent text-accent-foreground font-semibold rounded-full hover:opacity-90 transition-opacity">
+                {/* <button className="mt-8 w-full px-6 py-3 bg-accent text-accent-foreground font-semibold rounded-full hover:opacity-90 transition-opacity">
                   Get Started
-                </button>
+                </button> */}
               </div>
             ))}
           </div>

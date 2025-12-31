@@ -27,7 +27,7 @@ export function Hero() {
           </p>
 
           {/* CTA Buttons */}
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-8">
+          {/* <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-8">
             <button className="px-8 py-3 bg-accent text-accent-foreground font-semibold rounded-full hover:opacity-90 transition-opacity flex items-center gap-2">
               Get Started
               <ArrowRight size={18} />
@@ -35,7 +35,7 @@ export function Hero() {
             <button className="px-8 py-3 border border-accent text-accent font-semibold rounded-full hover:bg-accent hover:text-accent-foreground transition-colors">
               Learn More
             </button>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

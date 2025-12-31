@@ -83,7 +83,7 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-accent transition-colors">
+                <a href="https://www.instagram.com/raghuvatsal?igsh=Y2wwMGR1YmYxd3d0" className="hover:text-accent transition-colors">
                   Instagram
                 </a>
               </li>
